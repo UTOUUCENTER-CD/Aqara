@@ -1,1 +1,37 @@
-<mxfile host="app.diagrams.net" modified="2021-05-17T05:11:53.820Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36" version="14.6.11" etag="DJum7G8b9rCTtssjkDDP" type="github"><diagram id="3U3qpYfYGOaOELs4NJPN">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-05-17T05:36:30.259Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36" etag="iRVjP311QfybkosCgx-G" version="14.6.11" type="github">
+  <diagram id="3U3qpYfYGOaOELs4NJPN" name="Page-1">
+    <mxGraphModel dx="1408" dy="748" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="wQe4z6yAgqQqh6PdKGC2-2" value="IPFS&lt;br&gt;改变HTTP及HTTPS协议的信息传输" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="150" y="20" width="140" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="wQe4z6yAgqQqh6PdKGC2-6" value="IPFS存储激励" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="410" y="100" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="wQe4z6yAgqQqh6PdKGC2-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="wQe4z6yAgqQqh6PdKGC2-7" target="wQe4z6yAgqQqh6PdKGC2-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="wQe4z6yAgqQqh6PdKGC2-7" value="IPFS文件存储&lt;br&gt;依赖内容寻址" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="50" y="100" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="wQe4z6yAgqQqh6PdKGC2-10" value="IPFS&lt;br&gt;内容实现哈希值标识" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="38" y="178" width="125" height="32" as="geometry" />
+        </mxCell>
+        <mxCell id="wQe4z6yAgqQqh6PdKGC2-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="wQe4z6yAgqQqh6PdKGC2-12" target="wQe4z6yAgqQqh6PdKGC2-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="wQe4z6yAgqQqh6PdKGC2-12" value="IPFS文件读取&lt;br&gt;广播哈希值" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="100" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="wQe4z6yAgqQqh6PdKGC2-13" value="匹配哈希值&lt;br&gt;实现节点读取" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="180" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="wQe4z6yAgqQqh6PdKGC2-15" value="&lt;p style=&quot;text-align: left ; margin: 1.4em 0px&quot;&gt;有一个关键点：文件存储由谁来存储？——所有用户，用户凭什么花钱买设备为别人保存数据？&lt;/p&gt;&lt;p style=&quot;text-align: left ; margin: 1.4em 0px&quot;&gt;矿工奖励机制：奖励矿工贡献&lt;b&gt;存储&lt;/b&gt;，贡献数据&lt;b&gt;检索&lt;/b&gt;服务，让IPFS网络最终成为真正可用的网络。&lt;/p&gt;&lt;p style=&quot;margin: 1.4em 0px&quot;&gt;也就是说，用户通过购买代币Filecoin获得&lt;b&gt;数据存储和检索的&lt;/b&gt;服务，矿工则通过提供数据存储和检索服务&lt;b&gt;获得代币的奖励&lt;/b&gt;。&lt;/p&gt;&lt;p class=&quot;ztext-empty-paragraph&quot; style=&quot;margin: -0.8em 0px&quot;&gt;&lt;br style=&quot;color: rgb(18 , 18 , 18) ; font-family: , &amp;#34;blinkmacsystemfont&amp;#34; , &amp;#34;helvetica neue&amp;#34; , &amp;#34;pingfang sc&amp;#34; , &amp;#34;microsoft yahei&amp;#34; , &amp;#34;source han sans sc&amp;#34; , &amp;#34;noto sans cjk sc&amp;#34; , &amp;#34;wenquanyi micro hei&amp;#34; , sans-serif ; font-size: medium ; background-color: rgb(255 , 255 , 255)&quot;&gt;&lt;/p&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="420" y="150" width="660" height="110" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
