@@ -1,1 +1,172 @@
-<mxfile host="app.diagrams.net" modified="2021-10-20T03:59:02.509Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.81 Safari/537.36" version="15.5.6" etag="xornlM_LICE-qkk4h-I_" type="github"><diagram id="l9gon10-OVFrLEdtlygo">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-10-20T07:53:05.596Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.81 Safari/537.36" etag="lonYe80l7QcrJW8xmurI" version="15.5.6" type="github">
+  <diagram id="l9gon10-OVFrLEdtlygo" name="第 1 页">
+    <mxGraphModel dx="1422" dy="754" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="b5rMPWdn-qDBkz6BJryQ-1" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="160" y="131" width="1130" height="1130" as="geometry" />
+        </mxCell>
+        <mxCell id="b5rMPWdn-qDBkz6BJryQ-3" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;shape=mxgraph.floorplan.doorDoublePocket;dx=0.25;rotation=90;" vertex="1" parent="1">
+          <mxGeometry x="32.5" y="897.5" width="255" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="b5rMPWdn-qDBkz6BJryQ-4" value="门" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="130" y="950" width="30" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="b5rMPWdn-qDBkz6BJryQ-6" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;shape=mxgraph.floorplan.flat_tv;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="210" y="131" width="780" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="b5rMPWdn-qDBkz6BJryQ-7" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;shape=mxgraph.floorplan.wall;fillColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="1110" y="690" width="181" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="b5rMPWdn-qDBkz6BJryQ-8" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;shape=mxgraph.floorplan.wall;fillColor=#000000;direction=south;" vertex="1" parent="1">
+          <mxGeometry x="1281" y="130" width="10" height="560" as="geometry" />
+        </mxCell>
+        <mxCell id="b5rMPWdn-qDBkz6BJryQ-9" value="影院+KTV机柜" style="verticalLabelPosition=bottom;dashed=0;shadow=0;html=1;align=center;verticalAlign=top;shape=mxgraph.cabinets.cb_2p;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="1160" y="395" width="121" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="b5rMPWdn-qDBkz6BJryQ-10" value="饮水机" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;shape=mxgraph.floorplan.water_cooler;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="830" y="1169" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="b5rMPWdn-qDBkz6BJryQ-11" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;shape=mxgraph.floorplan.office_chair;shadow=0;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="510" y="980" width="40" height="43" as="geometry" />
+        </mxCell>
+        <mxCell id="b5rMPWdn-qDBkz6BJryQ-12" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;shape=mxgraph.floorplan.office_chair;shadow=0;direction=west;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="510" y="1077" width="40" height="43" as="geometry" />
+        </mxCell>
+        <mxCell id="b5rMPWdn-qDBkz6BJryQ-14" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;shape=mxgraph.floorplan.office_chair;shadow=0;direction=south;strokeWidth=2;rotation=-90;" vertex="1" parent="1">
+          <mxGeometry x="690" y="980" width="43" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="b5rMPWdn-qDBkz6BJryQ-15" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;shape=mxgraph.floorplan.office_chair;shadow=0;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="600" y="978.5" width="40" height="43" as="geometry" />
+        </mxCell>
+        <mxCell id="b5rMPWdn-qDBkz6BJryQ-16" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;shape=mxgraph.floorplan.office_chair;shadow=0;direction=west;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="695" y="1077" width="40" height="43" as="geometry" />
+        </mxCell>
+        <mxCell id="b5rMPWdn-qDBkz6BJryQ-17" value="吧台" style="shape=rect;shadow=0;strokeWidth=2;fontSize=18;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="440" y="1000" width="370" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="b5rMPWdn-qDBkz6BJryQ-18" value="咖啡机" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;shape=mxgraph.floorplan.water_cooler;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="760" y="1169" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="b5rMPWdn-qDBkz6BJryQ-19" value="冷热饮" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;shape=mxgraph.floorplan.water_cooler;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="680" y="1169" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="b5rMPWdn-qDBkz6BJryQ-20" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;shape=mxgraph.floorplan.sofa;fontSize=18;strokeWidth=1;rotation=-180;" vertex="1" parent="1">
+          <mxGeometry x="380" y="740" width="90" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="b5rMPWdn-qDBkz6BJryQ-21" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;shape=mxgraph.floorplan.couch;fontSize=18;strokeWidth=1;rotation=-180;" vertex="1" parent="1">
+          <mxGeometry x="420" y="600" width="150" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="b5rMPWdn-qDBkz6BJryQ-22" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;shape=mxgraph.floorplan.sofa;fontSize=18;strokeWidth=1;rotation=-180;" vertex="1" parent="1">
+          <mxGeometry x="500" y="740" width="90" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="b5rMPWdn-qDBkz6BJryQ-23" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;shape=mxgraph.floorplan.sofa;fontSize=18;strokeWidth=1;rotation=-180;" vertex="1" parent="1">
+          <mxGeometry x="620" y="740" width="90" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="b5rMPWdn-qDBkz6BJryQ-24" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;shape=mxgraph.floorplan.sofa;fontSize=18;strokeWidth=1;rotation=-180;" vertex="1" parent="1">
+          <mxGeometry x="740" y="740" width="90" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="b5rMPWdn-qDBkz6BJryQ-25" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;shape=mxgraph.floorplan.couch;fontSize=18;strokeWidth=1;rotation=-180;" vertex="1" parent="1">
+          <mxGeometry x="640" y="600" width="150" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="b5rMPWdn-qDBkz6BJryQ-33" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;fontSize=18;entryX=0.006;entryY=1.1;entryDx=0;entryDy=0;entryPerimeter=0;exitX=-0.003;exitY=0.052;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="b5rMPWdn-qDBkz6BJryQ-1" target="b5rMPWdn-qDBkz6BJryQ-6">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="210" y="230" as="sourcePoint" />
+            <mxPoint x="260" y="180" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="b5rMPWdn-qDBkz6BJryQ-34" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;fontSize=18;entryX=1;entryY=1.3;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.366;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="b5rMPWdn-qDBkz6BJryQ-8" target="b5rMPWdn-qDBkz6BJryQ-6">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="170" y="342.27" as="sourcePoint" />
+            <mxPoint x="224.68000000000006" y="152" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="b5rMPWdn-qDBkz6BJryQ-36" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;shape=mxgraph.floorplan.refrigerator;fontSize=18;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="310" y="141" width="60" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="b5rMPWdn-qDBkz6BJryQ-44" value="音箱系统：&lt;br&gt;7.2.4" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="580" y="250" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="b5rMPWdn-qDBkz6BJryQ-46" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;shape=mxgraph.floorplan.refrigerator;fontSize=18;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="880" y="141" width="60" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="b5rMPWdn-qDBkz6BJryQ-47" value="&lt;font style=&quot;font-size: 10px&quot;&gt;主音箱&lt;/font&gt;" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;shape=mxgraph.floorplan.floor_lamp;fontSize=18;strokeWidth=1;" vertex="1" parent="1">
+          <mxGeometry x="170" y="141" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="b5rMPWdn-qDBkz6BJryQ-48" value="&lt;font style=&quot;font-size: 10px&quot;&gt;主音箱&lt;/font&gt;" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;shape=mxgraph.floorplan.floor_lamp;fontSize=18;strokeWidth=1;" vertex="1" parent="1">
+          <mxGeometry x="990" y="141" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="b5rMPWdn-qDBkz6BJryQ-49" value="&lt;font style=&quot;font-size: 10px&quot;&gt;主音箱&lt;/font&gt;" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;shape=mxgraph.floorplan.floor_lamp;fontSize=18;strokeWidth=1;" vertex="1" parent="1">
+          <mxGeometry x="610" y="141" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="b5rMPWdn-qDBkz6BJryQ-50" value="低音炮" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=10;" vertex="1" parent="1">
+          <mxGeometry x="315" y="151" width="50" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="b5rMPWdn-qDBkz6BJryQ-51" value="低音炮" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=10;" vertex="1" parent="1">
+          <mxGeometry x="885" y="151" width="50" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="b5rMPWdn-qDBkz6BJryQ-54" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;shape=mxgraph.floorplan.doorDoubleAction;aspect=fixed;fontSize=10;strokeWidth=1;rotation=-180;" vertex="1" parent="1">
+          <mxGeometry x="1085.76" y="670" width="24.24" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="b5rMPWdn-qDBkz6BJryQ-56" value="壁挂环绕" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=10;" vertex="1" parent="1">
+          <mxGeometry x="1030" y="700" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="b5rMPWdn-qDBkz6BJryQ-57" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="160" y="670" width="70" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="b5rMPWdn-qDBkz6BJryQ-53" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;shape=mxgraph.floorplan.doorDoubleAction;aspect=fixed;fontSize=10;strokeWidth=1;" vertex="1" parent="b5rMPWdn-qDBkz6BJryQ-57">
+          <mxGeometry width="24.24" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="b5rMPWdn-qDBkz6BJryQ-55" value="壁挂环绕" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=10;" vertex="1" parent="b5rMPWdn-qDBkz6BJryQ-57">
+          <mxGeometry x="10" y="40" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="b5rMPWdn-qDBkz6BJryQ-58" value="" style="group;rotation=-35;" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="180" y="1140" width="70" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="b5rMPWdn-qDBkz6BJryQ-59" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;shape=mxgraph.floorplan.doorDoubleAction;aspect=fixed;fontSize=10;strokeWidth=1;rotation=-35;" vertex="1" parent="b5rMPWdn-qDBkz6BJryQ-58">
+          <mxGeometry x="1" y="14" width="24.24" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="b5rMPWdn-qDBkz6BJryQ-60" value="壁挂环绕" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=10;rotation=-35;" vertex="1" parent="b5rMPWdn-qDBkz6BJryQ-58">
+          <mxGeometry x="20" y="34" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="b5rMPWdn-qDBkz6BJryQ-61" value="" style="group;rotation=-130;" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="1030" y="1120" width="73" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="b5rMPWdn-qDBkz6BJryQ-62" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;shape=mxgraph.floorplan.doorDoubleAction;aspect=fixed;fontSize=10;strokeWidth=1;rotation=-130;" vertex="1" parent="b5rMPWdn-qDBkz6BJryQ-61">
+          <mxGeometry x="34" y="26" width="24.24" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="b5rMPWdn-qDBkz6BJryQ-64" value="壁挂环绕" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=10;" vertex="1" parent="1">
+          <mxGeometry x="1000" y="1170" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="b5rMPWdn-qDBkz6BJryQ-65" value="吸顶音域" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;shape=mxgraph.floorplan.spiral_stairs;fontSize=10;strokeWidth=1;" vertex="1" parent="1">
+          <mxGeometry x="399" y="530" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="b5rMPWdn-qDBkz6BJryQ-66" value="吸顶音域" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;shape=mxgraph.floorplan.spiral_stairs;fontSize=10;strokeWidth=1;" vertex="1" parent="1">
+          <mxGeometry x="325" y="930" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="b5rMPWdn-qDBkz6BJryQ-67" value="吸顶音域" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;shape=mxgraph.floorplan.spiral_stairs;fontSize=10;strokeWidth=1;" vertex="1" parent="1">
+          <mxGeometry x="895" y="930" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="b5rMPWdn-qDBkz6BJryQ-68" value="吸顶音域" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;shape=mxgraph.floorplan.spiral_stairs;fontSize=10;strokeWidth=1;" vertex="1" parent="1">
+          <mxGeometry x="790" y="530" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="b5rMPWdn-qDBkz6BJryQ-69" value="功放：&lt;br&gt;影院+KTV" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="1160" y="395" width="120" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="b5rMPWdn-qDBkz6BJryQ-70" value="LED显示屏：200寸" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=10;" vertex="1" parent="1">
+          <mxGeometry x="670" y="141" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="b5rMPWdn-qDBkz6BJryQ-71" value="调音台：&lt;br&gt;KTV" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="1160" y="540" width="121" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="b5rMPWdn-qDBkz6BJryQ-72" value="点歌屏" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=10;" vertex="1" parent="1">
+          <mxGeometry x="1195" y="450" width="50" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="b5rMPWdn-qDBkz6BJryQ-73" value="NAS系统：歌库、&lt;br&gt;影库、私人数据存储" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=10;" vertex="1" parent="1">
+          <mxGeometry x="1162" y="500" width="120" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
