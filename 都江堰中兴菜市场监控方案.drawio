@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-11-21T05:14:18.447Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36" etag="aQtF3VG9GRxA5NId8YnY" version="15.8.3" type="github">
+<mxfile host="app.diagrams.net" modified="2021-11-21T09:24:42.821Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36" etag="d7w7F171N_6IZzRwWHj6" version="15.8.3" type="github">
   <diagram id="xMNRnUteH71vqJX3BdvJ" name="第 1 页">
     <mxGraphModel dx="2489" dy="1923" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -285,7 +285,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="BmYgJsEmrb5f8PcPdyS7-68" value="" style="sketch=0;points=[[0.015,0.015,0],[0.985,0.015,0],[0.985,0.985,0],[0.015,0.985,0],[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];verticalLabelPosition=bottom;html=1;verticalAlign=top;aspect=fixed;align=center;pointerEvents=1;shape=mxgraph.cisco19.rect;prIcon=router_with_firewall2;fillColor=#FAFAFA;strokeColor=#005073;strokeWidth=3;fontStyle=1;rotation=-90;" parent="1" vertex="1">
-          <mxGeometry x="-662.32" y="460" width="24.32" height="19" as="geometry" />
+          <mxGeometry x="-663.32" y="460" width="24.32" height="19" as="geometry" />
         </mxCell>
         <mxCell id="BmYgJsEmrb5f8PcPdyS7-69" value="" style="sketch=0;points=[[0.015,0.015,0],[0.985,0.015,0],[0.985,0.985,0],[0.015,0.985,0],[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];verticalLabelPosition=bottom;html=1;verticalAlign=top;aspect=fixed;align=center;pointerEvents=1;shape=mxgraph.cisco19.rect;prIcon=router_with_firewall2;fillColor=#FAFAFA;strokeColor=#005073;strokeWidth=3;fontStyle=1;rotation=-180;" parent="1" vertex="1">
           <mxGeometry x="-463" y="630" width="24.32" height="19" as="geometry" />
@@ -350,14 +350,17 @@
         <mxCell id="BmYgJsEmrb5f8PcPdyS7-78" value="&lt;b&gt;办公室&lt;br&gt;后端设备&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="-668" y="311" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="_yGcBvMkLR_muN_QRzUQ-1" value="&lt;b&gt;交换机1&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="_yGcBvMkLR_muN_QRzUQ-1" value="&lt;b&gt;交换机1&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="-481.84000000000003" y="643" width="60" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="_yGcBvMkLR_muN_QRzUQ-2" value="&lt;b&gt;交换机2&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;rotation=90;" vertex="1" parent="1">
+        <mxCell id="_yGcBvMkLR_muN_QRzUQ-2" value="&lt;b&gt;交换机2&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;rotation=90;" parent="1" vertex="1">
           <mxGeometry x="-696" y="464" width="60" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="_yGcBvMkLR_muN_QRzUQ-3" value="&lt;b&gt;交换机3&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="_yGcBvMkLR_muN_QRzUQ-3" value="&lt;b&gt;交换机3&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="-534.84" y="347" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="w00lQwoN-mjK2AFzRXZr-1" value="方案说明：&lt;br&gt;本方案从实际考虑出发（应付检查而设计——在保证产品质量的同时，还考虑了清晰度问题，这两个因素是官方重点考察的参数&lt;br&gt;为了节省资金投入，只能考虑减少摄像头数量。）&lt;br&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-756" y="1261" width="690" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
