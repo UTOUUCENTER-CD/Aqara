@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-12-12T09:19:39.109Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.93 Safari/537.36" etag="yofsAv6zh2d66vsGA5Fz" version="15.9.4" type="github">
+<mxfile host="app.diagrams.net" modified="2021-12-18T12:24:28.932Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="QyOOwW3vWp7c2msLegGA" version="15.9.6" type="github">
   <diagram id="HFaNP80hhwEH5_IF7ybF" name="第 1 页">
-    <mxGraphModel dx="2462" dy="1964" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2249" dy="1941" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -540,61 +540,61 @@
         <mxCell id="C17lrR9Xiuj1-xTsT6V7-196" value="&lt;div style=&quot;text-align: left&quot;&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="450" y="1415" width="20" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="eo2dswcJ5dfUKohQAlBn-1" value="&lt;b&gt;&lt;font color=&quot;#0000cc&quot;&gt;项目成品后的&lt;br&gt;跟踪行为&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="eo2dswcJ5dfUKohQAlBn-1" value="&lt;b&gt;&lt;font color=&quot;#0000cc&quot;&gt;项目成品后的&lt;br&gt;跟踪行为&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="-157" y="161" width="90" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="eo2dswcJ5dfUKohQAlBn-2" value="&lt;b&gt;&lt;font color=&quot;#0000cc&quot;&gt;项目开发过程中的实践行为&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="eo2dswcJ5dfUKohQAlBn-2" value="&lt;b&gt;&lt;font color=&quot;#0000cc&quot;&gt;项目开发过程中的实践行为&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="-200" y="246" width="160" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="eo2dswcJ5dfUKohQAlBn-4" value="&lt;font color=&quot;#000000&quot;&gt;需求对接&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontColor=#0000CC;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="eo2dswcJ5dfUKohQAlBn-4" value="&lt;font color=&quot;#000000&quot;&gt;需求对接&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontColor=#0000CC;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="534" y="550" width="154" height="35" as="geometry" />
         </mxCell>
-        <mxCell id="eo2dswcJ5dfUKohQAlBn-5" value="&lt;font color=&quot;#000000&quot;&gt;需求对接&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontColor=#0000CC;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="eo2dswcJ5dfUKohQAlBn-5" value="&lt;font color=&quot;#000000&quot;&gt;需求对接&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontColor=#0000CC;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="375.5" y="1134" width="154" height="35" as="geometry" />
         </mxCell>
-        <mxCell id="eo2dswcJ5dfUKohQAlBn-6" value="&lt;font color=&quot;#000000&quot;&gt;需求对接&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontColor=#0000CC;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="eo2dswcJ5dfUKohQAlBn-6" value="&lt;font color=&quot;#000000&quot;&gt;需求对接&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontColor=#0000CC;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="377" y="1070" width="154" height="35" as="geometry" />
         </mxCell>
-        <mxCell id="eo2dswcJ5dfUKohQAlBn-7" value="&lt;font color=&quot;#000000&quot;&gt;进度把控&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontColor=#0000CC;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="eo2dswcJ5dfUKohQAlBn-7" value="&lt;font color=&quot;#000000&quot;&gt;进度把控&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontColor=#0000CC;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="727" y="1010" width="100" height="35" as="geometry" />
         </mxCell>
-        <mxCell id="eo2dswcJ5dfUKohQAlBn-8" value="&lt;font color=&quot;#000000&quot;&gt;人资组建&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontColor=#0000CC;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="eo2dswcJ5dfUKohQAlBn-8" value="&lt;font color=&quot;#000000&quot;&gt;人资组建&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontColor=#0000CC;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="580" y="920" width="100" height="35" as="geometry" />
         </mxCell>
-        <mxCell id="eo2dswcJ5dfUKohQAlBn-9" value="&lt;font color=&quot;#000000&quot;&gt;任务分配及实施&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontColor=#0000CC;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="eo2dswcJ5dfUKohQAlBn-9" value="&lt;font color=&quot;#000000&quot;&gt;任务分配及实施&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontColor=#0000CC;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="727" y="861.25" width="100" height="35" as="geometry" />
         </mxCell>
-        <mxCell id="eo2dswcJ5dfUKohQAlBn-10" value="&lt;font color=&quot;#000000&quot;&gt;拆分项目&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontColor=#0000CC;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="eo2dswcJ5dfUKohQAlBn-10" value="&lt;font color=&quot;#000000&quot;&gt;拆分项目&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontColor=#0000CC;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="580" y="790" width="100" height="35" as="geometry" />
         </mxCell>
-        <mxCell id="eo2dswcJ5dfUKohQAlBn-11" value="&lt;font color=&quot;#000000&quot;&gt;勘察 定方案&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontColor=#0000CC;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="eo2dswcJ5dfUKohQAlBn-11" value="&lt;font color=&quot;#000000&quot;&gt;勘察 定方案&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontColor=#0000CC;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="380" y="650" width="154" height="35" as="geometry" />
         </mxCell>
-        <mxCell id="eo2dswcJ5dfUKohQAlBn-12" value="&lt;font color=&quot;#000000&quot;&gt;项目内容筛选&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontColor=#0000CC;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="eo2dswcJ5dfUKohQAlBn-12" value="&lt;font color=&quot;#000000&quot;&gt;项目内容筛选&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontColor=#0000CC;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="570" y="620" width="120" height="35" as="geometry" />
         </mxCell>
-        <mxCell id="eo2dswcJ5dfUKohQAlBn-13" value="&lt;font color=&quot;#000000&quot;&gt;超标审批&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontColor=#0000CC;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="eo2dswcJ5dfUKohQAlBn-13" value="&lt;font color=&quot;#000000&quot;&gt;超标审批&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontColor=#0000CC;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="570" y="700" width="120" height="35" as="geometry" />
         </mxCell>
-        <mxCell id="eo2dswcJ5dfUKohQAlBn-14" value="&lt;font color=&quot;#000000&quot;&gt;立项&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontColor=#0000CC;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="eo2dswcJ5dfUKohQAlBn-14" value="&lt;font color=&quot;#000000&quot;&gt;立项&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontColor=#0000CC;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="377" y="861.25" width="154" height="35" as="geometry" />
         </mxCell>
-        <mxCell id="eo2dswcJ5dfUKohQAlBn-16" value="项目设计&lt;br&gt;项目计划" style="rhombus;whiteSpace=wrap;html=1;fontColor=#000000;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="eo2dswcJ5dfUKohQAlBn-16" value="项目设计&lt;br&gt;项目计划" style="rhombus;whiteSpace=wrap;html=1;fontColor=#000000;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="550" y="850" width="160" height="57.5" as="geometry" />
         </mxCell>
-        <mxCell id="eo2dswcJ5dfUKohQAlBn-17" value="签证、协调费用&lt;br&gt;审批完成" style="rhombus;whiteSpace=wrap;html=1;fontColor=#000000;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="eo2dswcJ5dfUKohQAlBn-17" value="签证、协调费用&lt;br&gt;审批完成" style="rhombus;whiteSpace=wrap;html=1;fontColor=#000000;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="550" y="1010" width="160" height="57.5" as="geometry" />
         </mxCell>
-        <mxCell id="eo2dswcJ5dfUKohQAlBn-18" value="&lt;b&gt;验证阶段&lt;/b&gt;——&lt;br&gt;是指项目组完成的项目之后，&lt;br&gt;引入资源线专家对项目进行验证。&lt;br&gt;验证的目的是使得项目与原始需&lt;br&gt;求一致，并保证其行业标准、及&lt;br&gt;正确" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="eo2dswcJ5dfUKohQAlBn-18" value="&lt;b&gt;验证阶段&lt;/b&gt;——&lt;br&gt;是指项目组完成的项目之后，&lt;br&gt;引入资源线专家对项目进行验证。&lt;br&gt;验证的目的是使得项目与原始需&lt;br&gt;求一致，并保证其行业标准、及&lt;br&gt;正确" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="-177" y="-531.5" width="200" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="eo2dswcJ5dfUKohQAlBn-19" value="&lt;b&gt;交付&lt;/b&gt;——&lt;br&gt;是指项目经过验证之后，向甲方提供&lt;br&gt;的正确结果。" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="eo2dswcJ5dfUKohQAlBn-19" value="&lt;b&gt;交付&lt;/b&gt;——&lt;br&gt;是指项目经过验证之后，向甲方提供&lt;br&gt;的正确结果。" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="-202" y="-358" width="210" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="eo2dswcJ5dfUKohQAlBn-21" value="&lt;span style=&quot;color: rgb(100 , 100 , 100) ; font-family: , &amp;#34;blinkmacsystemfont&amp;#34; , &amp;#34;helvetica neue&amp;#34; , &amp;#34;pingfang sc&amp;#34; , &amp;#34;microsoft yahei&amp;#34; , &amp;#34;source han sans sc&amp;#34; , &amp;#34;noto sans cjk sc&amp;#34; , &amp;#34;wenquanyi micro hei&amp;#34; , sans-serif ; font-size: 15px ; background-color: rgb(255 , 255 , 255)&quot;&gt;一个组织的系统通常被设计成这个组织通信结构的副本&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#000000;" vertex="1" parent="1">
+        <mxCell id="eo2dswcJ5dfUKohQAlBn-21" value="&lt;span style=&quot;color: rgb(100 , 100 , 100) ; font-family: , &amp;#34;blinkmacsystemfont&amp;#34; , &amp;#34;helvetica neue&amp;#34; , &amp;#34;pingfang sc&amp;#34; , &amp;#34;microsoft yahei&amp;#34; , &amp;#34;source han sans sc&amp;#34; , &amp;#34;noto sans cjk sc&amp;#34; , &amp;#34;wenquanyi micro hei&amp;#34; , sans-serif ; font-size: 15px ; background-color: rgb(255 , 255 , 255)&quot;&gt;一个组织的系统通常被设计成这个组织通信结构的副本&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#000000;" parent="1" vertex="1">
           <mxGeometry x="510" y="-1030" width="380" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="eo2dswcJ5dfUKohQAlBn-22" value="&lt;div&gt;&lt;p&gt;康威定律被引申为下面的四条&lt;/p&gt;&lt;blockquote&gt; 第一定律 Communication dictates design&amp;nbsp;&lt;/blockquote&gt;&lt;blockquote&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; 组织沟通方式会通过系统设计表达出来&lt;br&gt; 第二定律 There is never enough time to do something right, but there is always enough time to do it over&amp;nbsp;&lt;/blockquote&gt;&lt;blockquote&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; 时间再多一件事情也不可能做的完美，但总有时间做完一件事情&lt;br&gt; 第三定律 There is a homomorphism from the linear graph of a system to the linear graph of its design organization&lt;/blockquote&gt;&lt;blockquote&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;&lt;a href=&quot;https://www.zhihu.com/search?q=%E7%BA%BF%E5%9E%8B%E7%B3%BB%E7%BB%9F&amp;amp;search_source=Entity&amp;amp;hybrid_search_source=Entity&amp;amp;hybrid_search_extra=%7B%22sourceType%22%3A%22article%22%2C%22sourceId%22%3A%22104614255%22%7D&quot; target=&quot;_blank&quot; class=&quot;css-1occaib&quot;&gt;线型系统&lt;/a&gt;和线型组织架构间有潜在的异质同态特性&lt;br&gt; 第四定律 The structures of large systems tend to disintegrate during development, qualitatively more so than with small systems&amp;nbsp;&lt;/blockquote&gt;&lt;blockquote&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;大的&lt;a href=&quot;https://www.zhihu.com/search?q=%E7%B3%BB%E7%BB%9F%E7%BB%84%E7%BB%87&amp;amp;search_source=Entity&amp;amp;hybrid_search_source=Entity&amp;amp;hybrid_search_extra=%7B%22sourceType%22%3A%22article%22%2C%22sourceId%22%3A%22104614255%22%7D&quot; target=&quot;_blank&quot; class=&quot;css-1occaib&quot;&gt;系统组织&lt;/a&gt;总是比小系统更倾向于分解&lt;/blockquote&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#000000;" vertex="1" parent="1">
+        <mxCell id="eo2dswcJ5dfUKohQAlBn-22" value="&lt;div&gt;&lt;p&gt;康威定律被引申为下面的四条&lt;/p&gt;&lt;blockquote&gt; 第一定律 Communication dictates design&amp;nbsp;&lt;/blockquote&gt;&lt;blockquote&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; 组织沟通方式会通过系统设计表达出来&lt;br&gt; 第二定律 There is never enough time to do something right, but there is always enough time to do it over&amp;nbsp;&lt;/blockquote&gt;&lt;blockquote&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; 时间再多一件事情也不可能做的完美，但总有时间做完一件事情&lt;br&gt; 第三定律 There is a homomorphism from the linear graph of a system to the linear graph of its design organization&lt;/blockquote&gt;&lt;blockquote&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;&lt;a href=&quot;https://www.zhihu.com/search?q=%E7%BA%BF%E5%9E%8B%E7%B3%BB%E7%BB%9F&amp;amp;search_source=Entity&amp;amp;hybrid_search_source=Entity&amp;amp;hybrid_search_extra=%7B%22sourceType%22%3A%22article%22%2C%22sourceId%22%3A%22104614255%22%7D&quot; target=&quot;_blank&quot; class=&quot;css-1occaib&quot;&gt;线型系统&lt;/a&gt;和线型组织架构间有潜在的异质同态特性&lt;br&gt; 第四定律 The structures of large systems tend to disintegrate during development, qualitatively more so than with small systems&amp;nbsp;&lt;/blockquote&gt;&lt;blockquote&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;大的&lt;a href=&quot;https://www.zhihu.com/search?q=%E7%B3%BB%E7%BB%9F%E7%BB%84%E7%BB%87&amp;amp;search_source=Entity&amp;amp;hybrid_search_source=Entity&amp;amp;hybrid_search_extra=%7B%22sourceType%22%3A%22article%22%2C%22sourceId%22%3A%22104614255%22%7D&quot; target=&quot;_blank&quot; class=&quot;css-1occaib&quot;&gt;系统组织&lt;/a&gt;总是比小系统更倾向于分解&lt;/blockquote&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#000000;" parent="1" vertex="1">
           <mxGeometry x="491.25" y="-994" width="780" height="220" as="geometry" />
         </mxCell>
       </root>
