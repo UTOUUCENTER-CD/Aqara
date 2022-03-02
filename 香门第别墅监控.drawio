@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-03-02T09:13:25.222Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36" etag="iMkYDLDd_uBLNjrkgJF_" version="16.6.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-03-02T09:30:33.380Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36" etag="fnddlAx1VIZvCeFGQ1XZ" version="16.6.4" type="github">
   <diagram id="iCr_JiY7qagaqB1NNq29" name="Page-1">
-    <mxGraphModel dx="1422" dy="754" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1422" dy="698" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -388,8 +388,8 @@
         <mxCell id="wOag1kBWBXuF0DPkZlcp-62" value="&lt;font style=&quot;font-size: 18px&quot;&gt;&lt;b&gt;中兴农贸市场监控系统售后维护遇到的一个问题：&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="885" y="1241" width="410" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="wOag1kBWBXuF0DPkZlcp-63" value="&lt;b&gt;&lt;font color=&quot;#cc0000&quot;&gt;问题描述：&lt;/font&gt;&lt;/b&gt;&lt;br&gt;①、在POE交换机的6号LAN口上，出现取了摄像头&lt;br&gt;端的RJ45接头后，该LAN口指示灯仍然闪亮&lt;br&gt;（只是闪亮的速度比其他正常LAN口闪亮速度要慢）&lt;br&gt;当时想到的是该线路出现破损了？&lt;br&gt;要不然，为什么会出现：拔掉一端后，另一端的&lt;br&gt;指示灯会出现闪亮（正常状态应该是熄灭）。&lt;br&gt;最后就是当该线路中间有破损而采取重新布线。&lt;br&gt;布线结束后，摄像头画面正常呈现。然而。。。&lt;br&gt;——外网又不通了。&lt;br&gt;傻眼了，才发现，该LAN口另一头接的是路由器（而并非摄像头）&lt;br&gt;②、这种没有明确的严格验证两端设备情况，贸然做出了以上错误的&lt;br&gt;判断，并进行了施工，到最后才发现是末端设备没有排查清楚。&lt;br&gt;&lt;br&gt;&lt;b&gt;&lt;font color=&quot;#cc0000&quot;&gt;最后总结经验：&lt;/font&gt;&lt;/b&gt;在机房里面，面对一捆未做标签的线，要排查末端&lt;br&gt;设备，必须要求两个配合默契的人，一起做巡线验证，严格对应端口&lt;br&gt;到末端设备的准确线路（严格的一对一）。&lt;br&gt;&lt;b&gt;&lt;font color=&quot;#66b2ff&quot;&gt;通常情况下是一条线路进行三次插拔验证并对话反馈信号的一致性&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="870" y="1275" width="380" height="260" as="geometry" />
+        <mxCell id="wOag1kBWBXuF0DPkZlcp-63" value="&lt;b&gt;&lt;font color=&quot;#cc0000&quot;&gt;问题描述：&lt;/font&gt;&lt;/b&gt;&lt;br&gt;①、在POE交换机的6号LAN口上，出现取了摄像头&lt;br&gt;端的RJ45接头后，该LAN口指示灯仍然闪亮&lt;br&gt;（只是闪亮的速度比其他正常LAN口闪亮速度要慢）&lt;br&gt;当时想到的是该线路出现破损了？&lt;br&gt;要不然，为什么会出现：拔掉设备终端后，交换机端的&lt;br&gt;指示灯会任然闪亮（正常状态应该是熄灭）。&lt;br&gt;唯有当该线路中间有破损并短路，所以果断采取重新布线。&lt;br&gt;布线结束后，摄像头画面正常呈现。然而。。。&lt;br&gt;——外网又不通了。&lt;br&gt;傻眼了，不得已尝试更换链接到路由器的网线，恢复正常。&lt;br&gt;证明该LAN口另一头原来接的是路由器（而并非摄像头）&lt;br&gt;6号口与uplink口这两条线被人为更换过。&lt;br&gt;②、这种没有明确的严格验证两端设备情况，且被人为更换了接线口，&lt;br&gt;贸然做出了以上错误的判断，并进行了施工，&lt;br&gt;到最后才发现是末端设备没有排查清楚。&lt;br&gt;&lt;br&gt;&lt;b&gt;&lt;font color=&quot;#cc0000&quot;&gt;最后总结经验：&lt;/font&gt;&lt;/b&gt;在机房里面，面对一捆未做标签的线，要排查末端&lt;br&gt;设备，必须要求两个配合默契的人，一起做巡线验证，严格对应端口&lt;br&gt;到末端设备的准确线路（严格的一对一）。&lt;br&gt;&lt;b&gt;&lt;font color=&quot;#66b2ff&quot;&gt;通常情况下是一条线路进行三次插拔验证并对话反馈信号的一致性&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="885" y="1272" width="390" height="300" as="geometry" />
         </mxCell>
         <mxCell id="wOag1kBWBXuF0DPkZlcp-64" value="&lt;b&gt;&lt;font color=&quot;#cc0000&quot;&gt;POE&lt;br&gt;交换机&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="1373" y="1325" width="50" height="30" as="geometry" />
@@ -420,40 +420,43 @@
         </mxCell>
         <mxCell id="wOag1kBWBXuF0DPkZlcp-76" value="" style="endArrow=none;html=1;rounded=0;strokeColor=#B5739D;strokeWidth=2;dashed=1;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1292.49" y="1584" as="sourcePoint" />
-            <mxPoint x="1136.99" y="1584" as="targetPoint" />
+            <mxPoint x="1504.49" y="1657.5" as="sourcePoint" />
+            <mxPoint x="1348.99" y="1657.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="wOag1kBWBXuF0DPkZlcp-77" value="表示：我以为该端口末端接的设备" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#CC0000;" vertex="1" parent="1">
-          <mxGeometry x="1117" y="1562.5" width="200" height="20" as="geometry" />
+          <mxGeometry x="1329" y="1636" width="200" height="20" as="geometry" />
         </mxCell>
         <mxCell id="wOag1kBWBXuF0DPkZlcp-78" value="" style="endArrow=none;html=1;rounded=0;strokeColor=#B5739D;strokeWidth=2;startArrow=none;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1292.49" y="1620.5" as="sourcePoint" />
-            <mxPoint x="1142.49" y="1620.5" as="targetPoint" />
+            <mxPoint x="1504.49" y="1694" as="sourcePoint" />
+            <mxPoint x="1354.49" y="1694" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="1212.49" y="1620.5" />
+              <mxPoint x="1424.49" y="1694" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="wOag1kBWBXuF0DPkZlcp-79" value="表示：该端口末端实际接的设备" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#CC0000;" vertex="1" parent="1">
-          <mxGeometry x="1128.98" y="1600.5" width="180" height="20" as="geometry" />
+          <mxGeometry x="1340.98" y="1674" width="180" height="20" as="geometry" />
         </mxCell>
         <mxCell id="wOag1kBWBXuF0DPkZlcp-80" value="" style="endArrow=none;html=1;rounded=0;strokeColor=#0000FF;strokeWidth=2;dashed=1;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1292.49" y="1556.5" as="sourcePoint" />
-            <mxPoint x="1142.49" y="1556.5" as="targetPoint" />
+            <mxPoint x="1504.49" y="1630" as="sourcePoint" />
+            <mxPoint x="1354.49" y="1630" as="targetPoint" />
             <Array as="points" />
           </mxGeometry>
         </mxCell>
         <mxCell id="wOag1kBWBXuF0DPkZlcp-81" value="" style="endArrow=none;html=1;rounded=0;strokeColor=#0000FF;strokeWidth=2;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1292" y="1594.5" as="sourcePoint" />
-            <mxPoint x="1142" y="1594.5" as="targetPoint" />
+            <mxPoint x="1504" y="1668" as="sourcePoint" />
+            <mxPoint x="1354" y="1668" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="wOag1kBWBXuF0DPkZlcp-83" value="&lt;font style=&quot;font-size: 12px&quot;&gt;&lt;b&gt;NVR&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=18;fontColor=#CC0000;" vertex="1" parent="1">
           <mxGeometry x="1415" y="1241" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="wOag1kBWBXuF0DPkZlcp-85" value="&lt;font style=&quot;font-size: 18px&quot;&gt;&lt;b&gt;备注说明：&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;fontColor=#CC0000;" vertex="1" parent="1">
+          <mxGeometry x="1226" y="1618" width="110" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
