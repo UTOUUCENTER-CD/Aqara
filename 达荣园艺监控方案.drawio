@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-03-19T03:52:44.649Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36" etag="esoQj4G154Gp8vVKZAXs" version="17.1.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-03-19T04:42:51.591Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36" etag="_zB7EjR7XCcTum49s8Qm" version="17.1.3" type="github">
   <diagram id="g-MOh1ogWDr8jSSuVSur" name="Page-1">
-    <mxGraphModel dx="957" dy="1913" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="957" dy="1857" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -395,6 +395,18 @@
         </mxCell>
         <mxCell id="VO_4vQ80IrR_DuiOpRqN-140" value="&lt;font color=&quot;#0000ff&quot;&gt;光纤&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#000000;" vertex="1" parent="1">
           <mxGeometry x="479" y="315" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="VO_4vQ80IrR_DuiOpRqN-141" value="" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;shape=mxgraph.electrical.transmission.optical_fiber;fontSize=18;fontColor=#0000FF;strokeColor=#0000FF;strokeWidth=2;fillColor=none;rotation=90;" vertex="1" parent="1">
+          <mxGeometry x="352.14" y="422" width="42.07" height="31.49" as="geometry" />
+        </mxCell>
+        <mxCell id="VO_4vQ80IrR_DuiOpRqN-142" value="" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;shape=mxgraph.electrical.transmission.optical_fiber;fontSize=18;fontColor=#0000FF;strokeColor=#0000FF;strokeWidth=2;fillColor=none;rotation=0;" vertex="1" parent="1">
+          <mxGeometry x="570" y="156" width="44" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="VO_4vQ80IrR_DuiOpRqN-145" value="" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;shape=mxgraph.electrical.transmission.optical_fiber;fontSize=18;fontColor=#0000FF;strokeColor=#0000FF;strokeWidth=2;fillColor=none;rotation=90;" vertex="1" parent="1">
+          <mxGeometry x="678.93" y="471" width="42.07" height="31.49" as="geometry" />
+        </mxCell>
+        <mxCell id="VO_4vQ80IrR_DuiOpRqN-148" value="" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;shape=mxgraph.electrical.transmission.optical_fiber;fontSize=18;fontColor=#0000FF;strokeColor=#0000FF;strokeWidth=2;fillColor=none;rotation=-180;" vertex="1" parent="1">
+          <mxGeometry x="269.99999999999994" y="1041.26" width="42.07" height="31.49" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
