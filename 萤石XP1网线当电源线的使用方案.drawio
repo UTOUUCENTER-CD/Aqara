@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-06-15T07:27:10.961Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="NtVcwKzHlK7IsZH-lBjl" version="20.0.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-06-15T07:31:50.922Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="whCzO6NVAVyiwRAVagw9" version="20.0.1" type="github">
   <diagram id="ujyuZM-RlS9kohWl_JaY" name="Page-1">
     <mxGraphModel dx="1519" dy="688" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -357,6 +357,36 @@
         </mxCell>
         <mxCell id="6klDwTrlmDEIJouQaV1Q-21" value="各设备的连接要实现的功能说明：" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="-740" y="860" width="200" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="6klDwTrlmDEIJouQaV1Q-22" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;dashed=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-620" y="830" as="sourcePoint" />
+            <mxPoint x="-620" y="700" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6klDwTrlmDEIJouQaV1Q-23" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;dashed=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-500" y="690" as="sourcePoint" />
+            <mxPoint x="-610" y="690" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6klDwTrlmDEIJouQaV1Q-24" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;dashed=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-490" y="690" as="sourcePoint" />
+            <mxPoint x="-450" y="730" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6klDwTrlmDEIJouQaV1Q-25" value="600mm" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-595" y="670" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="6klDwTrlmDEIJouQaV1Q-26" value="600mm" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;rotation=90;" vertex="1" parent="1">
+          <mxGeometry x="-660" y="749" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="6klDwTrlmDEIJouQaV1Q-27" value="450mm" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;rotation=45;" vertex="1" parent="1">
+          <mxGeometry x="-491" y="692" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="6klDwTrlmDEIJouQaV1Q-28" value="现有机柜尺寸：600×600×450（单位：mm），它所处位置是在出线口位置。布局方式根据吧台情况而定" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-740" y="630" width="570" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
