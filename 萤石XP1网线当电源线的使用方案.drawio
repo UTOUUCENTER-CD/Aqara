@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-06-15T08:37:14.437Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="dsebcGOMlOVtqH1vwYIK" version="20.0.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-06-15T08:49:18.264Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="ma9_b9T1Q3dxNYAQm6xG" version="20.0.1" type="github">
   <diagram id="ujyuZM-RlS9kohWl_JaY" name="Page-1">
     <mxGraphModel dx="1519" dy="688" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -299,67 +299,67 @@
           <mxGeometry x="580" y="380" width="260" height="60" as="geometry" />
         </mxCell>
         <mxCell id="6klDwTrlmDEIJouQaV1Q-3" value="" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;size=30;fillColor=#E6E6E6;" vertex="1" parent="1">
-          <mxGeometry x="-620" y="633" width="148" height="177" as="geometry" />
+          <mxGeometry x="-660" y="633" width="188" height="177" as="geometry" />
         </mxCell>
         <mxCell id="6klDwTrlmDEIJouQaV1Q-4" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-590" y="723" as="sourcePoint" />
-            <mxPoint x="-470" y="723" as="targetPoint" />
+            <mxPoint x="-630" y="740" as="sourcePoint" />
+            <mxPoint x="-470" y="740" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="6klDwTrlmDEIJouQaV1Q-5" value="" style="endArrow=none;html=1;rounded=0;exitX=0;exitY=0;exitDx=0;exitDy=60;exitPerimeter=0;" edge="1" parent="1">
+        <mxCell id="6klDwTrlmDEIJouQaV1Q-5" value="" style="endArrow=none;html=1;rounded=0;exitX=0;exitY=0;exitDx=0;exitDy=73.5;exitPerimeter=0;" edge="1" parent="1" source="6klDwTrlmDEIJouQaV1Q-3">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="-620" y="696" as="sourcePoint" />
-            <mxPoint x="-590" y="723" as="targetPoint" />
+            <mxPoint x="-630" y="740" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="6klDwTrlmDEIJouQaV1Q-6" value="&lt;b&gt;机柜&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="-557" y="643" width="40" height="20" as="geometry" />
+          <mxGeometry x="-577" y="640" width="40" height="20" as="geometry" />
         </mxCell>
         <mxCell id="6klDwTrlmDEIJouQaV1Q-13" value="监控录像机" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="-552" y="686" width="80" height="20" as="geometry" />
         </mxCell>
         <mxCell id="6klDwTrlmDEIJouQaV1Q-14" value="交换机" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="-547" y="726" width="50" height="20" as="geometry" />
+          <mxGeometry x="-547" y="723" width="50" height="20" as="geometry" />
         </mxCell>
         <mxCell id="6klDwTrlmDEIJouQaV1Q-17" value="电梯轿厢呼叫对讲" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="-577" y="668" width="110" height="20" as="geometry" />
         </mxCell>
         <mxCell id="6klDwTrlmDEIJouQaV1Q-19" value="&lt;b&gt;①、光猫是电信宽带提供&lt;/b&gt;，光猫接路由器，路由器接交换机（提供吧台及其他位置的网络连接能力）&lt;br&gt;②、交换机接POE交换机再接监控录像机（提供给监控录像机与摄像头的连接能力）&lt;br&gt;&lt;b&gt;③、其中，&lt;/b&gt;路由器、交换机及POE交换机由我们提供。&lt;br&gt;&lt;b&gt;④、电梯轿厢呼叫对讲:&lt;/b&gt;由电梯方要提供设备及预埋信号线至机柜位置。" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="-728" y="836" width="540" height="60" as="geometry" />
+          <mxGeometry x="-731" y="865" width="540" height="60" as="geometry" />
         </mxCell>
         <mxCell id="6klDwTrlmDEIJouQaV1Q-20" value="POE交换机" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="-553" y="706" width="80" height="20" as="geometry" />
         </mxCell>
         <mxCell id="6klDwTrlmDEIJouQaV1Q-21" value="&lt;b&gt;各设备的连接要实现的功能说明：&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="-750" y="816" width="200" height="20" as="geometry" />
+          <mxGeometry x="-753" y="845" width="200" height="20" as="geometry" />
         </mxCell>
         <mxCell id="6klDwTrlmDEIJouQaV1Q-22" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;dashed=1;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-626" y="780" as="sourcePoint" />
-            <mxPoint x="-626" y="633" as="targetPoint" />
+            <mxPoint x="-670" y="780" as="sourcePoint" />
+            <mxPoint x="-670" y="633" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="6klDwTrlmDEIJouQaV1Q-23" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;dashed=1;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="-502" y="623" as="sourcePoint" />
-            <mxPoint x="-620" y="623" as="targetPoint" />
+            <mxPoint x="-660" y="623" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="6klDwTrlmDEIJouQaV1Q-24" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;dashed=1;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-492" y="623" as="sourcePoint" />
-            <mxPoint x="-452" y="663" as="targetPoint" />
+            <mxPoint x="-496" y="626" as="sourcePoint" />
+            <mxPoint x="-460" y="663" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="6klDwTrlmDEIJouQaV1Q-25" value="600mm" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="-597" y="603" width="60" height="20" as="geometry" />
         </mxCell>
         <mxCell id="6klDwTrlmDEIJouQaV1Q-26" value="600mm" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;rotation=90;" vertex="1" parent="1">
-          <mxGeometry x="-663" y="682" width="60" height="20" as="geometry" />
+          <mxGeometry x="-707" y="682" width="60" height="20" as="geometry" />
         </mxCell>
         <mxCell id="6klDwTrlmDEIJouQaV1Q-27" value="450mm" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;rotation=45;" vertex="1" parent="1">
-          <mxGeometry x="-493" y="625" width="60" height="20" as="geometry" />
+          <mxGeometry x="-499" y="632" width="60" height="20" as="geometry" />
         </mxCell>
         <mxCell id="6klDwTrlmDEIJouQaV1Q-28" value="&lt;b&gt;市场上现有的最小机柜尺寸：&lt;/b&gt;600×600×450（单位：mm），分上下两层。&lt;br&gt;&lt;br&gt;&lt;b&gt;它所处位置是：&lt;/b&gt;在出线口位置。布局方式根据吧台情况而定。" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="-740" y="551" width="410" height="50" as="geometry" />
@@ -368,7 +368,7 @@
           <mxGeometry x="-750" y="516" width="230" height="20" as="geometry" />
         </mxCell>
         <mxCell id="6klDwTrlmDEIJouQaV1Q-39" value="&lt;font color=&quot;#000000&quot; style=&quot;font-size: 10px;&quot;&gt;2022.06.15&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=18;fontColor=#3333FF;" vertex="1" parent="1">
-          <mxGeometry x="-188" y="891" width="80" height="30" as="geometry" />
+          <mxGeometry x="-191" y="920" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="6klDwTrlmDEIJouQaV1Q-40" value="" style="group" vertex="1" connectable="0" parent="1">
           <mxGeometry x="-470.53" y="743" width="207" height="20" as="geometry" />
