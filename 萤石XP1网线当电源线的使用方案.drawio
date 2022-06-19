@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-06-15T08:49:18.264Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="ma9_b9T1Q3dxNYAQm6xG" version="20.0.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-06-19T02:48:43.388Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="LqD-6FCeZvLDoUIDfyIg" version="20.0.1" type="github">
   <diagram id="ujyuZM-RlS9kohWl_JaY" name="Page-1">
-    <mxGraphModel dx="1519" dy="688" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1480" dy="744" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -298,158 +298,158 @@
         <mxCell id="rt4YQm5omHJ4TkJtkYQn-93" value="&lt;font color=&quot;#cc0000&quot;&gt;&lt;b&gt;—&amp;nbsp;萤石经济型监控设计万不得已的方案 —&lt;br&gt;&lt;/b&gt;根据现场其稳定性需冒险测试，最坏的结果是 :&lt;br&gt;由于线路过于太长，适配器长距离输送电源，&lt;br&gt;会使得终端摄像头获取不到稳定的电压。&lt;/font&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;" parent="1" vertex="1">
           <mxGeometry x="580" y="380" width="260" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="6klDwTrlmDEIJouQaV1Q-3" value="" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;size=30;fillColor=#E6E6E6;" vertex="1" parent="1">
-          <mxGeometry x="-660" y="633" width="188" height="177" as="geometry" />
+        <mxCell id="6klDwTrlmDEIJouQaV1Q-3" value="" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;size=30;fillColor=#E6E6E6;" parent="1" vertex="1">
+          <mxGeometry x="-627" y="640" width="188" height="177" as="geometry" />
         </mxCell>
-        <mxCell id="6klDwTrlmDEIJouQaV1Q-4" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="6klDwTrlmDEIJouQaV1Q-4" value="" style="endArrow=none;html=1;rounded=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-630" y="740" as="sourcePoint" />
-            <mxPoint x="-470" y="740" as="targetPoint" />
+            <mxPoint x="-597" y="747" as="sourcePoint" />
+            <mxPoint x="-437" y="747" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="6klDwTrlmDEIJouQaV1Q-5" value="" style="endArrow=none;html=1;rounded=0;exitX=0;exitY=0;exitDx=0;exitDy=73.5;exitPerimeter=0;" edge="1" parent="1" source="6klDwTrlmDEIJouQaV1Q-3">
+        <mxCell id="6klDwTrlmDEIJouQaV1Q-5" value="" style="endArrow=none;html=1;rounded=0;exitX=0;exitY=0;exitDx=0;exitDy=73.5;exitPerimeter=0;" parent="1" source="6klDwTrlmDEIJouQaV1Q-3" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-620" y="696" as="sourcePoint" />
-            <mxPoint x="-630" y="740" as="targetPoint" />
+            <mxPoint x="-587" y="703" as="sourcePoint" />
+            <mxPoint x="-597" y="747" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="6klDwTrlmDEIJouQaV1Q-6" value="&lt;b&gt;机柜&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="-577" y="640" width="40" height="20" as="geometry" />
+        <mxCell id="6klDwTrlmDEIJouQaV1Q-6" value="&lt;b&gt;机柜&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="-544" y="647" width="40" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="6klDwTrlmDEIJouQaV1Q-13" value="监控录像机" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="-552" y="686" width="80" height="20" as="geometry" />
+        <mxCell id="6klDwTrlmDEIJouQaV1Q-13" value="监控录像机" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="-519" y="693" width="80" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="6klDwTrlmDEIJouQaV1Q-14" value="交换机" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="-547" y="723" width="50" height="20" as="geometry" />
+        <mxCell id="6klDwTrlmDEIJouQaV1Q-14" value="交换机" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="-514" y="730" width="50" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="6klDwTrlmDEIJouQaV1Q-17" value="电梯轿厢呼叫对讲" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="-577" y="668" width="110" height="20" as="geometry" />
+        <mxCell id="6klDwTrlmDEIJouQaV1Q-17" value="电梯轿厢呼叫对讲" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="-544" y="675" width="110" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="6klDwTrlmDEIJouQaV1Q-19" value="&lt;b&gt;①、光猫是电信宽带提供&lt;/b&gt;，光猫接路由器，路由器接交换机（提供吧台及其他位置的网络连接能力）&lt;br&gt;②、交换机接POE交换机再接监控录像机（提供给监控录像机与摄像头的连接能力）&lt;br&gt;&lt;b&gt;③、其中，&lt;/b&gt;路由器、交换机及POE交换机由我们提供。&lt;br&gt;&lt;b&gt;④、电梯轿厢呼叫对讲:&lt;/b&gt;由电梯方要提供设备及预埋信号线至机柜位置。" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="-731" y="865" width="540" height="60" as="geometry" />
+        <mxCell id="6klDwTrlmDEIJouQaV1Q-19" value="&lt;b&gt;①、光猫是电信宽带提供&lt;/b&gt;，光猫接路由器，路由器接交换机（提供吧台及其他位置的网络连接能力）&lt;br&gt;②、交换机接POE交换机再接监控录像机（提供给监控录像机与摄像头的连接能力）&lt;br&gt;&lt;b&gt;③、其中，&lt;/b&gt;路由器、交换机及POE交换机由我们提供。&lt;br&gt;&lt;b&gt;④、电梯轿厢呼叫对讲:&lt;/b&gt;由电梯方要提供设备及预埋信号线至机柜位置。" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="-698" y="872" width="540" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="6klDwTrlmDEIJouQaV1Q-20" value="POE交换机" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="-553" y="706" width="80" height="20" as="geometry" />
+        <mxCell id="6klDwTrlmDEIJouQaV1Q-20" value="POE交换机" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="-520" y="713" width="80" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="6klDwTrlmDEIJouQaV1Q-21" value="&lt;b&gt;各设备的连接要实现的功能说明：&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="-753" y="845" width="200" height="20" as="geometry" />
+        <mxCell id="6klDwTrlmDEIJouQaV1Q-21" value="&lt;b&gt;各设备的连接要实现的功能说明：&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="-720" y="852" width="200" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="6klDwTrlmDEIJouQaV1Q-22" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;dashed=1;" edge="1" parent="1">
+        <mxCell id="6klDwTrlmDEIJouQaV1Q-22" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;dashed=1;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-670" y="780" as="sourcePoint" />
-            <mxPoint x="-670" y="633" as="targetPoint" />
+            <mxPoint x="-637" y="787" as="sourcePoint" />
+            <mxPoint x="-637" y="640" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="6klDwTrlmDEIJouQaV1Q-23" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;dashed=1;" edge="1" parent="1">
+        <mxCell id="6klDwTrlmDEIJouQaV1Q-23" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;dashed=1;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-502" y="623" as="sourcePoint" />
-            <mxPoint x="-660" y="623" as="targetPoint" />
+            <mxPoint x="-469" y="630" as="sourcePoint" />
+            <mxPoint x="-627" y="630" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="6klDwTrlmDEIJouQaV1Q-24" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;dashed=1;" edge="1" parent="1">
+        <mxCell id="6klDwTrlmDEIJouQaV1Q-24" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;dashed=1;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-496" y="626" as="sourcePoint" />
-            <mxPoint x="-460" y="663" as="targetPoint" />
+            <mxPoint x="-463" y="633" as="sourcePoint" />
+            <mxPoint x="-427" y="670" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="6klDwTrlmDEIJouQaV1Q-25" value="600mm" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="-597" y="603" width="60" height="20" as="geometry" />
+        <mxCell id="6klDwTrlmDEIJouQaV1Q-25" value="600mm" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="-564" y="610" width="60" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="6klDwTrlmDEIJouQaV1Q-26" value="600mm" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;rotation=90;" vertex="1" parent="1">
-          <mxGeometry x="-707" y="682" width="60" height="20" as="geometry" />
+        <mxCell id="6klDwTrlmDEIJouQaV1Q-26" value="600mm" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;rotation=90;" parent="1" vertex="1">
+          <mxGeometry x="-674" y="689" width="60" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="6klDwTrlmDEIJouQaV1Q-27" value="450mm" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;rotation=45;" vertex="1" parent="1">
-          <mxGeometry x="-499" y="632" width="60" height="20" as="geometry" />
+        <mxCell id="6klDwTrlmDEIJouQaV1Q-27" value="450mm" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;rotation=45;" parent="1" vertex="1">
+          <mxGeometry x="-466" y="639" width="60" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="6klDwTrlmDEIJouQaV1Q-28" value="&lt;b&gt;市场上现有的最小机柜尺寸：&lt;/b&gt;600×600×450（单位：mm），分上下两层。&lt;br&gt;&lt;br&gt;&lt;b&gt;它所处位置是：&lt;/b&gt;在出线口位置。布局方式根据吧台情况而定。" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="-740" y="551" width="410" height="50" as="geometry" />
+        <mxCell id="6klDwTrlmDEIJouQaV1Q-28" value="&lt;b&gt;市场上现有的最小机柜尺寸：&lt;/b&gt;600×600×450（单位：mm），分上下两层。&lt;br&gt;&lt;br&gt;&lt;b&gt;它所处位置是：&lt;/b&gt;在出线口位置。布局方式根据吧台情况而定。" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="-707" y="558" width="410" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="6klDwTrlmDEIJouQaV1Q-38" value="&lt;font color=&quot;#ff6666&quot; style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;泰庄吧台机柜设计相关说明&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#3333FF;" vertex="1" parent="1">
-          <mxGeometry x="-750" y="516" width="230" height="20" as="geometry" />
+        <mxCell id="6klDwTrlmDEIJouQaV1Q-38" value="&lt;font color=&quot;#ff6666&quot; style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;泰庄吧台机柜设计相关说明&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#3333FF;" parent="1" vertex="1">
+          <mxGeometry x="-717" y="523" width="230" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="6klDwTrlmDEIJouQaV1Q-39" value="&lt;font color=&quot;#000000&quot; style=&quot;font-size: 10px;&quot;&gt;2022.06.15&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=18;fontColor=#3333FF;" vertex="1" parent="1">
-          <mxGeometry x="-191" y="920" width="80" height="30" as="geometry" />
+        <mxCell id="6klDwTrlmDEIJouQaV1Q-39" value="&lt;font color=&quot;#000000&quot; style=&quot;font-size: 10px;&quot;&gt;2022.06.15&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=18;fontColor=#3333FF;" parent="1" vertex="1">
+          <mxGeometry x="-158" y="927" width="80" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="6klDwTrlmDEIJouQaV1Q-40" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="-470.53" y="743" width="207" height="20" as="geometry" />
+        <mxCell id="6klDwTrlmDEIJouQaV1Q-40" value="" style="group" parent="1" vertex="1" connectable="0">
+          <mxGeometry x="-437.53" y="750" width="207" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="6klDwTrlmDEIJouQaV1Q-9" value="&lt;font color=&quot;#3333ff&quot;&gt;宽带光纤&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="6klDwTrlmDEIJouQaV1Q-40">
+        <mxCell id="6klDwTrlmDEIJouQaV1Q-9" value="&lt;font color=&quot;#3333ff&quot;&gt;宽带光纤&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="6klDwTrlmDEIJouQaV1Q-40" vertex="1">
           <mxGeometry x="147" width="60" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="6klDwTrlmDEIJouQaV1Q-12" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0;entryDx=130;entryDy=90;entryPerimeter=0;strokeColor=#3333FF;" edge="1" parent="6klDwTrlmDEIJouQaV1Q-40">
+        <mxCell id="6klDwTrlmDEIJouQaV1Q-12" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0;entryDx=130;entryDy=90;entryPerimeter=0;strokeColor=#3333FF;" parent="6klDwTrlmDEIJouQaV1Q-40" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="150" y="9" as="sourcePoint" />
             <mxPoint y="9" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="6klDwTrlmDEIJouQaV1Q-41" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="-473" y="702" width="209" height="30" as="geometry" />
+        <mxCell id="6klDwTrlmDEIJouQaV1Q-41" value="" style="group" parent="1" vertex="1" connectable="0">
+          <mxGeometry x="-440" y="709" width="209" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="6klDwTrlmDEIJouQaV1Q-30" value="" style="shape=singleArrow;direction=west;whiteSpace=wrap;html=1;fillColor=#3333FF;arrowWidth=0.7714285714285715;arrowSize=0.26666666666666666;" vertex="1" parent="6klDwTrlmDEIJouQaV1Q-41">
+        <mxCell id="6klDwTrlmDEIJouQaV1Q-30" value="" style="shape=singleArrow;direction=west;whiteSpace=wrap;html=1;fillColor=#3333FF;arrowWidth=0.7714285714285715;arrowSize=0.26666666666666666;" parent="6klDwTrlmDEIJouQaV1Q-41" vertex="1">
           <mxGeometry width="150" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="6klDwTrlmDEIJouQaV1Q-11" value="&lt;font color=&quot;#ffffff&quot;&gt;监控网线&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=#3333FF;" vertex="1" parent="6klDwTrlmDEIJouQaV1Q-41">
+        <mxCell id="6klDwTrlmDEIJouQaV1Q-11" value="&lt;font color=&quot;#ffffff&quot;&gt;监控网线&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=#3333FF;" parent="6klDwTrlmDEIJouQaV1Q-41" vertex="1">
           <mxGeometry x="149" y="5.5" width="60" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="6klDwTrlmDEIJouQaV1Q-42" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="-472" y="684" width="283" height="20" as="geometry" />
+        <mxCell id="6klDwTrlmDEIJouQaV1Q-42" value="" style="group" parent="1" vertex="1" connectable="0">
+          <mxGeometry x="-439" y="691" width="283" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="6klDwTrlmDEIJouQaV1Q-36" value="" style="shape=singleArrow;direction=west;whiteSpace=wrap;html=1;fillColor=#66FF66;arrowWidth=0.5238095238095238;arrowSize=0.12;" vertex="1" parent="6klDwTrlmDEIJouQaV1Q-42">
+        <mxCell id="6klDwTrlmDEIJouQaV1Q-36" value="" style="shape=singleArrow;direction=west;whiteSpace=wrap;html=1;fillColor=#66FF66;arrowWidth=0.5238095238095238;arrowSize=0.12;" parent="6klDwTrlmDEIJouQaV1Q-42" vertex="1">
           <mxGeometry y="4.75" width="150" height="10.5" as="geometry" />
         </mxCell>
-        <mxCell id="6klDwTrlmDEIJouQaV1Q-37" value="&lt;font color=&quot;#66ff66&quot;&gt;监控到显示器的视频线&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#FF0000;" vertex="1" parent="6klDwTrlmDEIJouQaV1Q-42">
+        <mxCell id="6klDwTrlmDEIJouQaV1Q-37" value="&lt;font color=&quot;#66ff66&quot;&gt;监控到显示器的视频线&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#FF0000;" parent="6klDwTrlmDEIJouQaV1Q-42" vertex="1">
           <mxGeometry x="143" width="140" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="6klDwTrlmDEIJouQaV1Q-43" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="-470" y="669" width="231" height="20" as="geometry" />
+        <mxCell id="6klDwTrlmDEIJouQaV1Q-43" value="" style="group" parent="1" vertex="1" connectable="0">
+          <mxGeometry x="-437" y="676" width="231" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="6klDwTrlmDEIJouQaV1Q-29" value="" style="endArrow=classic;html=1;rounded=0;dashed=1;entryX=1.06;entryY=0.85;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="6klDwTrlmDEIJouQaV1Q-43">
+        <mxCell id="6klDwTrlmDEIJouQaV1Q-29" value="" style="endArrow=classic;html=1;rounded=0;dashed=1;entryX=1.06;entryY=0.85;entryDx=0;entryDy=0;entryPerimeter=0;" parent="6klDwTrlmDEIJouQaV1Q-43" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="147" y="11" as="sourcePoint" />
             <mxPoint y="11" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="6klDwTrlmDEIJouQaV1Q-31" value="电梯呼叫对讲" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="6klDwTrlmDEIJouQaV1Q-43">
+        <mxCell id="6klDwTrlmDEIJouQaV1Q-31" value="电梯呼叫对讲" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="6klDwTrlmDEIJouQaV1Q-43" vertex="1">
           <mxGeometry x="141" width="90" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="6klDwTrlmDEIJouQaV1Q-44" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="-469" y="787" width="195.47000000000003" height="20" as="geometry" />
+        <mxCell id="6klDwTrlmDEIJouQaV1Q-44" value="" style="group" parent="1" vertex="1" connectable="0">
+          <mxGeometry x="-436" y="794" width="195.47000000000003" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="6klDwTrlmDEIJouQaV1Q-34" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0;entryDx=130;entryDy=90;entryPerimeter=0;strokeColor=#FF0000;" edge="1" parent="6klDwTrlmDEIJouQaV1Q-44">
+        <mxCell id="6klDwTrlmDEIJouQaV1Q-34" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0;entryDx=130;entryDy=90;entryPerimeter=0;strokeColor=#FF0000;" parent="6klDwTrlmDEIJouQaV1Q-44" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="150" y="8" as="sourcePoint" />
             <mxPoint y="8" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="6klDwTrlmDEIJouQaV1Q-35" value="&lt;font color=&quot;#ff0000&quot;&gt;电源线&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#FFFFFF;" vertex="1" parent="6klDwTrlmDEIJouQaV1Q-44">
+        <mxCell id="6klDwTrlmDEIJouQaV1Q-35" value="&lt;font color=&quot;#ff0000&quot;&gt;电源线&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#FFFFFF;" parent="6klDwTrlmDEIJouQaV1Q-44" vertex="1">
           <mxGeometry x="145.47000000000003" width="50" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="6klDwTrlmDEIJouQaV1Q-45" value="&lt;font color=&quot;#000000&quot;&gt;其他设备&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=10;fontColor=#FF6666;" vertex="1" parent="1">
-          <mxGeometry x="-532" y="763" width="60" height="20" as="geometry" />
+        <mxCell id="6klDwTrlmDEIJouQaV1Q-45" value="&lt;font color=&quot;#000000&quot;&gt;其他设备&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=10;fontColor=#FF6666;" parent="1" vertex="1">
+          <mxGeometry x="-499" y="770" width="60" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="6klDwTrlmDEIJouQaV1Q-46" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="-568" y="743" width="97.47000000000003" height="20" as="geometry" />
+        <mxCell id="6klDwTrlmDEIJouQaV1Q-46" value="" style="group" parent="1" vertex="1" connectable="0">
+          <mxGeometry x="-535" y="750" width="97.47000000000003" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="6klDwTrlmDEIJouQaV1Q-15" value="路由器" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="6klDwTrlmDEIJouQaV1Q-46">
+        <mxCell id="6klDwTrlmDEIJouQaV1Q-15" value="路由器" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="6klDwTrlmDEIJouQaV1Q-46" vertex="1">
           <mxGeometry width="50" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="6klDwTrlmDEIJouQaV1Q-16" value="光猫" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="6klDwTrlmDEIJouQaV1Q-46">
+        <mxCell id="6klDwTrlmDEIJouQaV1Q-16" value="光猫" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="6klDwTrlmDEIJouQaV1Q-46" vertex="1">
           <mxGeometry x="57.47000000000003" width="40" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="6klDwTrlmDEIJouQaV1Q-47" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="-470" y="762" width="220" height="20" as="geometry" />
+        <mxCell id="6klDwTrlmDEIJouQaV1Q-47" value="" style="group" parent="1" vertex="1" connectable="0">
+          <mxGeometry x="-437" y="769" width="220" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="6klDwTrlmDEIJouQaV1Q-32" value="" style="endArrow=classic;html=1;rounded=0;dashed=1;entryX=1.06;entryY=0.85;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=#99004D;" edge="1" parent="6klDwTrlmDEIJouQaV1Q-47">
+        <mxCell id="6klDwTrlmDEIJouQaV1Q-32" value="" style="endArrow=classic;html=1;rounded=0;dashed=1;entryX=1.06;entryY=0.85;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=#99004D;" parent="6klDwTrlmDEIJouQaV1Q-47" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="147" y="10" as="sourcePoint" />
             <mxPoint y="10" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="6klDwTrlmDEIJouQaV1Q-33" value="其他信号线" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="6klDwTrlmDEIJouQaV1Q-47">
+        <mxCell id="6klDwTrlmDEIJouQaV1Q-33" value="其他信号线" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="6klDwTrlmDEIJouQaV1Q-47" vertex="1">
           <mxGeometry x="140" width="80" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="6klDwTrlmDEIJouQaV1Q-50" value="电源插座" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=10;fontColor=#000000;" vertex="1" parent="1">
-          <mxGeometry x="-533" y="786" width="60" height="20" as="geometry" />
+        <mxCell id="6klDwTrlmDEIJouQaV1Q-50" value="电源插座" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=10;fontColor=#000000;" parent="1" vertex="1">
+          <mxGeometry x="-500" y="793" width="60" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
